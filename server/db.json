@@ -1,0 +1,716 @@
+[
+    {
+        "id": "M1",
+        "category": "Mens",
+        "brand": "HRX Hrithik Roshan",
+        "title": "Men Rapid Dry Running Joggers",
+        "discounted_price": 664,
+        "strike_price": 1899,
+        "discount": "(65% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/7610386/2022/4/19/c6fe5c9f-9a2b-46c9-90cc-6479f7d8ea581650366004453HRXbyHrithikRoshanMenBlackSolidRapidDryRunningJoggers2.jpg",
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "rating": 3.7,
+        "rating_count": 13.8
+    },
+    {
+        "id": "M2",
+        "category": "Mens",
+        "brand": "Roadster",
+        "title": "Printed Casual Shirt",
+        "discounted_price": 599,
+        "strike_price": 1499,
+        "discount": "(60% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1364628/2016/8/31/11472636737718-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-1.jpg",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL",
+            "XXXL"
+        ],
+        "rating": 4.1,
+        "rating_count": 25.9
+    },
+    {
+        "id": "M3",
+        "category": "Mens",
+        "brand": "Indian Garage Co",
+        "title": "Men Slim Fit Casual Shirt",
+        "discounted_price": 626,
+        "strike_price": 1649,
+        "discount": "(62% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131-1.jpg",
+        "size": [
+            "39",
+            "40",
+            "42",
+            "44",
+            "46"
+        ],
+        "rating": 4.1,
+        "rating_count": 8.2
+    },
+    {
+        "id": "M4",
+        "category": "Mens",
+        "brand": "Roadster",
+        "title": "Men Time Travlr Slim Fit Chinos",
+        "discounted_price": "859",
+        "strike_price": "1999",
+        "discount": "(57% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2290972/2018/5/5/11525515544459-Roadster-Men-Grey-Slim-Fit-Solid-Chinos-2351525515544256-1.jpg",
+        "size": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "rating": 4.2,
+        "rating_count": 5.8
+    },
+    {
+        "id": "M5",
+        "category": "Mens",
+        "brand": "HIGHLANDER",
+        "title": "Men Tapered Fit Chinos",
+        "discounted_price": 743,
+        "strike_price": 1549,
+        "discount": "(52% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2290039/2022/7/13/9f725478-e4a1-4220-8e30-d157a7cf2b291657698446507HIGHLANDERMenBlackTaperedFitChinos1.jpg",
+        "size": [
+            "30",
+            "32",
+            "34",
+            "36"
+        ],
+        "rating": 4.1,
+        "rating_count": 12.7
+    },
+    {
+        "id": "M6",
+        "category": "Mens",
+        "brand": "Roadster",
+        "title": "Men Slim Fit Jeans",
+        "discounted_price": 719,
+        "strike_price": 1499,
+        "discount": "(52% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2356421/2019/5/3/a89c3143-0c54-454b-8d7a-f6668d2458731556873152837-Roadster-Men-Black-Slim-Fit-Mid-Rise-Clean-Look-Jeans-339155-1.jpg",
+        "size": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "rating": 3.8,
+        "rating_count": 6.6
+    },
+    {
+        "id": "M7",
+        "category": "Mens",
+        "brand": "HIGHLANDER",
+        "title": "Men Slim Fit Jeans",
+        "discounted_price": 558,
+        "strike_price": 1299,
+        "discount": "(57% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/2/22/d80c3d85-a70b-4a20-8e49-6793311901ea1550824145033-1.jpg",
+        "size": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+        ],
+        "rating": 3.8,
+        "rating_count": 9
+    },
+    {
+        "id": "M8",
+        "category": "Mens",
+        "brand": "LOCOMOTIVE",
+        "title": "Men Slim Fit Casual Shirt",
+        "discounted_price": 577,
+        "strike_price": 1649,
+        "discount": "(65% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/10341699/2022/8/25/c23fd879-a9b3-4515-a181-558523a71b9b1661423122029-LOCOMOTIVE-Men-Black--Grey-Slim-Fit-Checked-Casual-Shirt-342-1.jpg",
+        "size": [
+            "39",
+            "40",
+            "42",
+            "44"
+        ],
+        "rating": 4.1,
+        "rating_count": 5.7
+    },
+    {
+        "id": "M9",
+        "category": "Mens",
+        "brand": "Dennis Lingo",
+        "title": "Men Slim Fit Casual Shirt",
+        "discounted_price": 628,
+        "strike_price": 1849,
+        "discount": "(66% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/7488102/2019/8/22/8002a744-0dad-4dbb-9481-cf0090134c3b1566454086786-Dennis-Lingo-Men-Pink-Slim-Fit-Solid-Casual-Shirt-9891566454-1.jpg",
+        "size": [
+            "38",
+            "40",
+            "42",
+            "44",
+            "46"
+        ],
+        "rating": 4.1,
+        "rating_count": 13.1
+    },
+    {
+        "id": "M10",
+        "category": "Mens",
+        "brand": "Roadster",
+        "title": "Men Pure Cotton Casual Shirt",
+        "discounted_price": 494,
+        "strike_price": 1499,
+        "discount": "(67% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1376577/2022/6/3/ea10ab6c-883e-437a-8780-ed87484393f81654235830793-Roadster-Men-Black--Grey-Checked-Casual-Sustainable-Shirt-42-1.jpg",
+        "size": [
+            "38",
+            "40",
+            "42",
+            "44",
+            "46",
+            "48"
+        ],
+        "rating": 4.3,
+        "rating_count": 34.3
+    },
+    {
+        "id": "M11",
+        "category": "Mens",
+        "brand": "United Benetton",
+        "title": "Men Printed  Joggers",
+        "discounted_price": 824,
+        "strike_price": 1649,
+        "discount": "(50% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17565218/2022/6/6/05cf0d21-112c-4163-86eb-43e8048a9d4f1654514626287-United-Colors-of-Benetton-Men-Black-Brand-Logo-Printed-Jogge-1.jpg",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "rating": 4.7,
+        "rating_count": 55
+    },
+    {
+        "id": "M12",
+        "category": "Mens",
+        "brand": "IVOC",
+        "title": "Men Slim Fit Cargos Trousers",
+        "discounted_price": 1055,
+        "strike_price": 2399,
+        "discount": "(56% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/16119774/2021/11/17/e9c84e47-a9d8-4d34-8b66-df65e81a19561637132978233IVOCMenOliveGreenSlimFitCargosTrousers1.jpg",
+        "size": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36"
+        ],
+        "rating": 3.9,
+        "rating_count": 7.0
+    },
+    {
+        "id": "M13",
+        "category": "Mens",
+        "brand": "H&M",
+        "title": "Men Blue Regular Jeans",
+        "discounted_price": 600,
+        "strike_price": 1499,
+        "discount": "(10% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15193854/2021/8/19/c31b2cd1-fdba-4cd2-8ab9-3cc1186498c21629350915270RegularJeans1.jpg",
+        "size": [
+            "28, ",
+            "29, ",
+            "30, ",
+            "31, ",
+            "32, ",
+            "33, ",
+            "34, ",
+            "36, ",
+            "38, ",
+            "40"
+        ],
+        "rating": 4.3,
+        "rating_count": 33
+    },
+    {
+        "id": "M14",
+        "category": "Mens",
+        "brand": "Mast & Harbour",
+        "title": "Men Slim Tapered Crop Jeans",
+        "discounted_price": 839,
+        "strike_price": 2099,
+        "discount": "(60% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/12542686/2020/12/7/7cf52149-982e-484d-9da0-4490f204642e1607324070805-Mast--Harbour-Men-Jeans-631607324067463-1.jpg",
+        "size": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36"
+        ],
+        "rating": 3.0,
+        "rating_count": 1.3
+    },
+    {
+        "id": "M15",
+        "category": "Mens",
+        "brand": "Roadster",
+        "title": "Solid Round Neck Pure Cotton T-shirt",
+        "discounted_price": 189,
+        "strike_price": 499,
+        "discount": "(62% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/11306992/2020/6/9/ea2607ea-c2d3-4d27-94c3-5a67a76de4fd1591692498694-Roadster-Men-Tshirts-811591692497497-1.jpg",
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL",
+            "4XL"
+        ],
+        "rating": 4.2,
+        "rating_count": 7.2
+    },
+    {
+        "id": "W1",
+        "category": "Womens",
+        "brand": "KALINI",
+        "title": "Women Yoke Design Kurta Set",
+        "discounted_price": 887,
+        "strike_price": 3699,
+        "discount": "(76% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/18652620/2022/8/26/4d5f7043-a460-42e5-b67a-b04d9c0bc7041661503606623-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-1.jpg",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "rating": 4.1,
+        "rating_count": 1.9
+    },
+    {
+        "id": "W2",
+        "category": "Womens",
+        "brand": "Khushal K",
+        "title": "Women Kurta Set With Dupatta",
+        "discounted_price": 1529,
+        "strike_price": 5099,
+        "discount": "(70% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17048614/2022/2/4/b0eb9426-adf2-4802-a6b3-5dbacbc5f2511643971561167KhushalKWomenBlackEthnicMotifsAngrakhaBeadsandStonesKurtawit7.jpg",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "rating": 4.4,
+        "rating_count": 5.9
+    },
+    {
+        "id": "W3",
+        "category": "Womens",
+        "brand": "Anouk",
+        "title": "Kurta with Palazzos & Dupatta",
+        "discounted_price": 1329,
+        "strike_price": 3799,
+        "discount": "(65% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/14399812/2021/6/11/61ac3eaa-c553-4230-9458-28aa7bd088301623391467623-Anouk-Women-Kurta-Sets-961623391466905-11.jpg",
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL",
+            "4XL"
+        ],
+        "rating": 4.2,
+        "rating_count": 1.7
+    },
+    {
+        "id": "W4",
+        "category": "Womens",
+        "brand": "Indo Era",
+        "title": "Zari Embroidered Kurta set",
+        "discounted_price": 1399,
+        "strike_price": 6999,
+        "discount": "(80% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13962282/2021/7/5/26f8c8a9-e900-4510-9fb0-ac42f029442c1625483017312-Indo-Era-Beigh-Embroidered-Straight-Kurta-Palazzo-With-Dupat-1.jpg",
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "rating": 4.3,
+        "rating_count": 3.4
+    },
+    {
+        "id": "W5",
+        "category": "Womens",
+        "brand": "KALINI",
+        "title": "Women Kurta with Palazzo",
+        "discounted_price": 799,
+        "strike_price": 3635,
+        "discount": "(78% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/18815868/2022/6/22/59d0e321-c48a-409a-9626-596b088187d21655880734773KALINIWomenBlueStraightKurtawithPalazzoDupatta7.jpg",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL",
+            "4XL",
+            "5XL"
+        ],
+        "rating": 4.2,
+        "rating_count": 8.5
+    },
+    {
+        "id": "W6",
+        "category": "Womens",
+        "brand": "Khushal K",
+        "title": "Women Yoke Design Kurta with Palazzo",
+        "discounted_price": 1529,
+        "strike_price": 5099,
+        "discount": "(70% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/18483950/2022/6/7/23c59537-fcac-40b1-8e64-4818e8a3e21d1654577763968-Khushal-K-Women-Pink-Ethnic-Motifs-Beads-and-Stones-Kurta-wi-11.jpg",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "rating": 4.4,
+        "rating_count": 1.3
+    },
+    {
+        "id": "W7",
+        "category": "Womens",
+        "brand": "Anubhutee",
+        "title": "Women Embroidered Kurta with Trousers",
+        "discounted_price": 1469,
+        "strike_price": 4899,
+        "discount": "(70% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/16331376/2021/12/2/b8c4f90f-683c-48d2-b8ac-19891a87c0651638428628378KurtaSets1.jpg",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "rating": 4.1,
+        "rating_count": 2.6
+    },
+    {
+        "id": "W8",
+        "category": "Womens",
+        "brand": "Anouk",
+        "title": "Yoke Design Kurta with Trousers",
+        "discounted_price": 979,
+        "strike_price": 2799,
+        "discount": "(65% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13902678/2021/4/6/a5dfcb9a-af2a-4ed8-98bf-e10a8b3b5a891617704827106-Anouk-Women-Kurta-Sets-911617704825967-1.jpg",
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL",
+            "4XL"
+        ],
+        "rating": 4.3,
+        "rating_count": 7.7
+    },
+    {
+        "id": "W9",
+        "category": "Womens",
+        "brand": "KALINI",
+        "title": "Women Printed Kurta & Trousers",
+        "discounted_price": 767,
+        "strike_price": 3199,
+        "discount": "(76% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/18709124/2022/6/11/4fc5a841-d80c-4e7b-9a7b-4e17134b4c401654948355691KALINIWomenBlueStraightPrintedKurtawithTrouser7.jpg",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL",
+            "4XL",
+            "5XL"
+        ],
+        "rating": 4.0,
+        "rating_count": 2.9
+    },
+    {
+        "id": "W10",
+        "category": "Womens",
+        "brand": "FASHOR",
+        "title": "Women Geometric Striped Georgette Kurta",
+        "discounted_price": 1350,
+        "strike_price": 3399,
+        "discount": "(65% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/19420734/2022/8/6/3f280561-c679-4360-85df-caad0895f0481659793175287Kurtas1.jpg",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "rating": 2.0,
+        "rating_count": 2.5
+    },
+    {
+        "id": "C1",
+        "category": "Child",
+        "brand": "HELLCAT",
+        "title": "Set Of 2 Boys Sweatshirt",
+        "discounted_price": 679,
+        "strike_price": 3998,
+        "discount": "(83% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/19888438/2022/9/22/591e68d2-7552-4e8f-a51d-63b6b028a4431663840257994-HELLCAT-Boys-Set-Of-2-Blue--White-Printed-Hooded-Sweatshirt--7.jpg",
+        "size": [
+            "3-4Y, ",
+            "5-6Y, ",
+            "7-8Y, ",
+            "9-10Y, ",
+            "11-12Y, ",
+            "13-14Y, ",
+            "15-16Y"
+        ],
+        "rating": 4.4,
+        "rating_count": 5.0
+    },
+    {
+        "id": "C2",
+        "category": "Child",
+        "brand": "HELLCAT",
+        "title": "Boys Pack Of 5 Printed T-shirt",
+        "discounted_price": 799,
+        "strike_price": 4995,
+        "discount": "(84% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17137550/2022/2/11/b124b0f4-830d-44ed-a669-e8585d66cf4f1644579708683HellcatBoysRoundNeckBlendedCottonTshirt-ComboPackof51.jpg",
+        "size": [
+            "3-4Y, ",
+            "5-6Y, ",
+            "7-8Y, ",
+            "9-10Y, ",
+            "11-12Y, ",
+            "13-14Y, ",
+            "15-16Y"
+        ],
+        "rating": 4.1,
+        "rating_count": 1.5
+    },
+    {
+        "id": "C3",
+        "category": "Child",
+        "brand": "VASTRAMAY",
+        "title": "Boys Printed Kurti & Dhoti Pants",
+        "discounted_price": 989,
+        "strike_price": 2999,
+        "discount": "(67% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/14945740/2021/7/27/3db0248d-4733-471c-b340-8e4d899157821627364322229VASTRAMAYBoysYellowFloralPrintedAngrakhaKurtiwithDhotiPants1.jpg",
+        "size": [
+            "2-3Y, ",
+            "3-4Y, ",
+            "4-5Y, ",
+            "5-6Y, ",
+            "6-7Y, ",
+            "7-8Y, ",
+            "9-10Y, ",
+            "11-12Y, ",
+            "13-14Y"
+        ],
+        "rating": 4.3,
+        "rating_count": 1.1
+    },
+    {
+        "id": "C4",
+        "category": "Child",
+        "brand": "A.T.U.N.",
+        "title": "Boys Casual Shirt",
+        "discounted_price": 681,
+        "strike_price": 2199,
+        "discount": "(69% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/19662810/2022/8/25/62f4ec2a-cdf3-4cdc-a35c-3144b02d736d1661432266938ATUNBoysShirt1.jpg",
+        "size": [
+            "0-3M, ",
+            "3-6M, ",
+            "6-12M, ",
+            "1-2Y, ",
+            "2-3Y, ",
+            "3-4Y, ",
+            "4-5Y, ",
+            "5-6Y, ",
+            "6-7Y, ",
+            "7-8Y, ",
+            "8-9Y, ",
+            "9-10Y, ",
+            "10-11Y, ",
+            "11-12Y, ",
+            "12-13Y, ",
+            "13-14Y, ",
+            "14-15Y, ",
+            "15-16Y"
+        ],
+        "rating": 4.5,
+        "rating_count": 31
+    },
+    {
+        "id": "C5",
+        "category": "Child",
+        "brand": "HELLCAT",
+        "title": "Boys Pack of 3 Solid Track Pants",
+        "discounted_price": 808,
+        "strike_price": 2994,
+        "discount": "(73% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/18485332/2022/6/4/7e5f39a4-68cd-49c0-b379-c1558153018a1654342781392HELLCATBoysPackof3GreyBlackRedSolidTrackPants1.jpg",
+        "size": [
+            "9-10Y",
+            "11-12Y",
+            "13-14Y"
+        ],
+        "rating": 4.2,
+        "rating_count": 1.6
+    },
+    {
+        "id": "C6",
+        "category": "Child",
+        "brand": "MANZON",
+        "title": "Kids Velvet 6 Pcs Set",
+        "discounted_price": 1099,
+        "strike_price": 1999,
+        "discount": "(45% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/16003720/2021/11/29/85faff74-1915-4ad5-bb4a-d59efff4d3f11638189301743SweatersMarksSpencerBoysJeansMarksSpencerBoysInnerwearVestsM1.jpg",
+        "size": [
+            "0-3M",
+            "3-6M",
+            "6-12M",
+            "1-2Y",
+            "2-3Y"
+        ],
+        "rating": 3.5,
+        "rating_count": 41
+    },
+    {
+        "id": "C7",
+        "category": "Child",
+        "brand": "max",
+        "title": "Boys Pack Of 5 T-shirts",
+        "discounted_price": 569,
+        "strike_price": 949,
+        "discount": "(40% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/16051118/2021/11/10/fd80a39e-1ea2-4375-a7fa-4c953ff58fac1636542362732maxBoysMulticolouredPrintedV-NeckAppliqueT-shirt1.jpg",
+        "size": [
+            "2-3Y",
+            "3-4Y",
+            "5-6Y",
+            "7-8Y"
+        ],
+        "rating": 4.3,
+        "rating_count": 27
+    },
+    {
+        "id": "C8",
+        "category": "Child",
+        "brand": "Urbano Juniors",
+        "title": "Boys Slim Fit Denim Joggers",
+        "discounted_price": 601,
+        "strike_price": 1399,
+        "discount": "(57% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/11851558/2020/5/14/48b14f3a-22f7-4663-951b-28362558930a1589444558685-Urbano-Juniors-Boys-Grey-Slim-Fit-Jeans-4441589444558297-1.jpg",
+        "size": [
+            "4-5Y, ",
+            "5-6Y, ",
+            "7-8Y, ",
+            "8-9Y, ",
+            "9-10Y, ",
+            "11-12Y, ",
+            "13-14Y"
+        ],
+        "rating": 4.2,
+        "rating_count": 2.3
+    },
+    {
+        "id": "C9",
+        "category": "Child",
+        "brand": "PLUM TREE",
+        "title": "Boys Camouflage Pure Cotton Joggers",
+        "discounted_price": 636,
+        "strike_price": 1249,
+        "discount": "(49% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15156370/2021/12/23/41255d6f-4eee-4fcb-b75c-2cd17b291e9b1640251064814-PLUM-TREE-Boys-Green--Blue-Camouflage-Pure-Cotton-Joggers-31-1.jpg",
+        "size": [
+            "2-3Y, ",
+            "3-4Y, ",
+            "5-6Y, ",
+            "7-8Y, ",
+            "8-9Y, ",
+            "9-10Y, ",
+            "11-12Y, ",
+            "13-14Y"
+        ],
+        "rating": 4.3,
+        "rating_count": 8.6
+    },
+    {
+        "id": "C10",
+        "category": "Child",
+        "brand": "Hopscotch",
+        "title": "Boys Shirt Pyjamas & Blazer",
+        "discounted_price": 621,
+        "strike_price": 1479,
+        "discount": "(58% OFF)",
+        "images": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/16334330/2021/12/2/5eb31306-337b-4db9-9089-ef45e0ed1f751638417222084ClothingSet1.jpg",
+        "size": [
+            "6-12M",
+            "1-2Y",
+            "2-3Y",
+            "3-4Y",
+            "4-5Y"
+        ],
+        "rating": 4.0,
+        "rating_count": 6.3
+    }
+]
